@@ -1,50 +1,70 @@
-<h1 align="center">Hi, I'm Kasuni Mekhala 👋</h1>
-<h3 align="center">Application Developer | Building full-stack web applications</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Spring+Boot+%2B+Java;Laravel+%2B+PHP;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:6DB33F&height=200&section=header&text=Kasuni%20Mekhala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Application%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Spring+Boot+%2B+Java;Laravel+%2B+PHP;Turning+ideas+into+shipped+software" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasuni-kulasekara-3454632a5/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasuni.mekhala@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=KasuniMekhala&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ### 🚀 About Me
 
-- 💻 Application Developer focused on building reliable, end-to-end web systems
-- 🛠️ Comfortable across the stack — from REST APIs to responsive front-ends
-- 🌱 Currently building an enterprise-grade **QA & Production Tracking system** in Laravel (NCR/CAPA workflows, audit trails, dashboards & reporting)
-- ⚡ I enjoy turning real operational problems into clean, maintainable software
+```javascript
+const kasuni = {
+    role: "Application Developer",
+    stack: ["MERN", "Spring Boot", "Laravel", "Java"],
+    currentlyBuilding: "Enterprise QA & Production Tracking System (Laravel)",
+    focus: "clean APIs, solid data models, software that solves real operational problems",
+};
+```
+
+- 💻 Full-stack developer comfortable moving between front-end, back-end, and database layers
+- 🏭 Currently building an enterprise-grade **QA & Production Tracking system** — NCR/CAPA workflows, audit trails, approval chains, dashboards & reporting
+- 🤖 Also build ML-integrated web apps — see **AgroRover** below
+- ⚡ I enjoy turning messy real-world operational problems into clean, maintainable software
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,spring,laravel,react,nodejs,express,mongodb,mysql,git,github,postman,vscode&theme=dark" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-**Frameworks & Runtime**
+### 🌟 Featured Projects
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Database**
+**🌱 [AgroRover Intelligence Dashboard](https://github.com/KasuniMekhala/agro_rover)**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Flask + MongoDB rover-management dashboard powering 4 agricultural ML components — soil-moisture anomaly detection (Random Forest), field-zone mapping (KMeans), and soil-health prediction (LSTM + XGBoost) — behind a real-time animated control-center UI with live sensor simulation, analytics charts, and a REST API.
 
-**Tools**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</td>
+<td width="50%" valign="top">
+
+**🛒 [E-Commerce Microservices — Payment Service](https://github.com/KasuniMekhala/ecommerce-microservices-paymentservice)**
+
+Payment-service component of a microservices-based e-commerce system (SLIIT IT4020 coursework) — built around an independently deployable service boundary for handling payment processing.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-blue?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -59,11 +79,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasuniMekhala&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KasuniMekhala&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KasuniMekhala&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
 ---
+
+<div align="center">
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasuni-kulasekara-3454632a5/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasuni.mekhala@gmail.com)
+Always open to collaborating on interesting full-stack or ML-integrated projects.
 
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my pinned repositories below.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2F81F7&height=100&section=footer" width="100%"/>
+
+</div>
